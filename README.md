@@ -1,0 +1,2 @@
+# HaploDistScan
+HaploDisctScan R package
